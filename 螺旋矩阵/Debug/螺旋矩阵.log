@@ -1,0 +1,5 @@
+﻿  螺旋矩阵.cpp
+C:\Users\ASUS\Desktop\leetcode\螺旋矩阵\螺旋矩阵.cpp(24,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\螺旋矩阵\螺旋矩阵.cpp(66,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\螺旋矩阵\螺旋矩阵.cpp(84,19): warning C4018: “<”: 有符号/无符号不匹配
+  螺旋矩阵.vcxproj -> C:\Users\ASUS\Desktop\leetcode\螺旋矩阵\Debug\螺旋矩阵.exe

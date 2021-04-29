@@ -1,0 +1,5 @@
+﻿  逆波兰表达式.cpp
+C:\Users\ASUS\Desktop\leetcode\逆波兰表达式\逆波兰表达式.cpp(30,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\逆波兰表达式\逆波兰表达式.cpp(116,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\逆波兰表达式\逆波兰表达式.cpp(163,19): warning C4018: “<”: 有符号/无符号不匹配
+  逆波兰表达式.vcxproj -> C:\Users\ASUS\Desktop\leetcode\逆波兰表达式\Debug\逆波兰表达式.exe

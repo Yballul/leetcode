@@ -1,0 +1,4 @@
+﻿  验证ip地址.cpp
+C:\Users\ASUS\Desktop\leetcode\验证ip地址\验证ip地址.cpp(28,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\验证ip地址\验证ip地址.cpp(61,26): warning C4018: “<”: 有符号/无符号不匹配
+  验证ip地址.vcxproj -> C:\Users\ASUS\Desktop\leetcode\验证ip地址\Debug\验证ip地址.exe

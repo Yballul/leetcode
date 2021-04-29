@@ -1,0 +1,5 @@
+﻿  全排列2.cpp
+C:\Users\ASUS\Desktop\leetcode\全排列2\全排列2.cpp(14,6): warning C4101: “counter”: 未引用的局部变量
+C:\Users\ASUS\Desktop\leetcode\全排列2\全排列2.cpp(27,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\全排列2\全排列2.cpp(35,21): warning C4018: “<”: 有符号/无符号不匹配
+  全排列2.vcxproj -> C:\Users\ASUS\Desktop\leetcode\全排列2\Debug\全排列2.exe

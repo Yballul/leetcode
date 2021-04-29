@@ -1,0 +1,7 @@
+﻿  机器人步数.cpp
+C:\Users\ASUS\Desktop\leetcode\机器人步数\机器人步数.cpp(43,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\机器人步数\机器人步数.cpp(58,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\机器人步数\机器人步数.cpp(80,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\机器人步数\机器人步数.cpp(96,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\机器人步数\机器人步数.cpp(137,19): warning C4018: “<”: 有符号/无符号不匹配
+  机器人步数.vcxproj -> C:\Users\ASUS\Desktop\leetcode\机器人步数\Debug\机器人步数.exe

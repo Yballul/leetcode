@@ -1,0 +1,10 @@
+﻿  组合数总和.cpp
+C:\Users\ASUS\Desktop\leetcode\组合数总和\组合数总和.cpp(24,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\组合数总和\组合数总和.cpp(16,6): warning C4101: “b”: 未引用的局部变量
+C:\Users\ASUS\Desktop\leetcode\组合数总和\组合数总和.cpp(38,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\组合数总和\组合数总和.cpp(62,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\组合数总和\组合数总和.cpp(66,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\组合数总和\组合数总和.cpp(68,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\组合数总和\组合数总和.cpp(76,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\组合数总和\组合数总和.cpp(78,20): warning C4018: “<”: 有符号/无符号不匹配
+  组合数总和.vcxproj -> C:\Users\ASUS\Desktop\leetcode\组合数总和\Debug\组合数总和.exe

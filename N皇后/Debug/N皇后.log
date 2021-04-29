@@ -1,0 +1,4 @@
+﻿  N皇后.cpp
+C:\Users\ASUS\Desktop\leetcode\N皇后\N皇后.cpp(40,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\N皇后\N皇后.cpp(42,24): warning C4018: “<”: 有符号/无符号不匹配
+  N皇后.vcxproj -> C:\Users\ASUS\Desktop\leetcode\N皇后\Debug\N皇后.exe

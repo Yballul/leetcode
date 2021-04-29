@@ -1,0 +1,8 @@
+﻿  变位词组.cpp
+C:\Users\ASUS\Desktop\leetcode\变位词组\变位词组.cpp(17,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\变位词组\变位词组.cpp(23,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\变位词组\变位词组.cpp(27,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\变位词组\变位词组.cpp(29,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\变位词组\变位词组.cpp(49,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\变位词组\变位词组.cpp(51,20): warning C4018: “<”: 有符号/无符号不匹配
+  变位词组.vcxproj -> C:\Users\ASUS\Desktop\leetcode\变位词组\Debug\变位词组.exe

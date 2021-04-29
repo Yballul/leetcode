@@ -1,0 +1,7 @@
+﻿  单词搜索.cpp
+C:\Users\ASUS\Desktop\leetcode\单词搜索\单词搜索.cpp(22,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\单词搜索\单词搜索.cpp(26,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\单词搜索\单词搜索.cpp(28,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\单词搜索\单词搜索.cpp(94,14): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\单词搜索\单词搜索.cpp(94,46): warning C4018: “>”: 有符号/无符号不匹配
+  单词搜索.vcxproj -> C:\Users\ASUS\Desktop\leetcode\单词搜索\Debug\单词搜索.exe

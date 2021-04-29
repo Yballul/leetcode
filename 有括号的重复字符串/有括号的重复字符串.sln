@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "有括号的重复字符串", "有括号的重复字符串.vcxproj", "{6D0956EC-3DE0-4AC6-B31A-0BD09968BD04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D0956EC-3DE0-4AC6-B31A-0BD09968BD04}.Debug|x64.ActiveCfg = Debug|x64
+		{6D0956EC-3DE0-4AC6-B31A-0BD09968BD04}.Debug|x64.Build.0 = Debug|x64
+		{6D0956EC-3DE0-4AC6-B31A-0BD09968BD04}.Debug|x86.ActiveCfg = Debug|Win32
+		{6D0956EC-3DE0-4AC6-B31A-0BD09968BD04}.Debug|x86.Build.0 = Debug|Win32
+		{6D0956EC-3DE0-4AC6-B31A-0BD09968BD04}.Release|x64.ActiveCfg = Release|x64
+		{6D0956EC-3DE0-4AC6-B31A-0BD09968BD04}.Release|x64.Build.0 = Release|x64
+		{6D0956EC-3DE0-4AC6-B31A-0BD09968BD04}.Release|x86.ActiveCfg = Release|Win32
+		{6D0956EC-3DE0-4AC6-B31A-0BD09968BD04}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81D519C6-7B1B-44F4-9B8D-97DAD5828840}
+	EndGlobalSection
+EndGlobal

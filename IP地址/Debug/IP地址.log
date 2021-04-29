@@ -1,0 +1,8 @@
+﻿  IP地址.cpp
+C:\Users\ASUS\Desktop\leetcode\IP地址\IP地址.cpp(40,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\IP地址\IP地址.cpp(54,9): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\IP地址\IP地址.cpp(65,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\IP地址\IP地址.cpp(68,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\IP地址\IP地址.cpp(112,19): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\leetcode\IP地址\IP地址.cpp(117,19): warning C4018: “<”: 有符号/无符号不匹配
+  IP地址.vcxproj -> C:\Users\ASUS\Desktop\leetcode\IP地址\Debug\IP地址.exe
